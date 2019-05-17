@@ -35,3 +35,4 @@ console.log( 'indices for twoSum([2,7,11,15], 13): %o (should be [0,2])', twoSum
 console.log( 'indices for twoSum([2,7,11,15], 13): %o (should be [0,3])', twoSum([2,7,11,15], 17) )
 console.log( 'indices for twoSum([2,7,11,15], 18): %o (should be [1,2])', twoSum([2,7,11,15], 18) )
 console.log( 'indices for twoSum([2,7,11,15], 26): %o (should be [2,3])', twoSum([2,7,11,15], 26) )
+console.log( 'indices for twoSum([3,2,4], 6): %o (should be [1,2])', twoSum([3,2,4], 6) )
